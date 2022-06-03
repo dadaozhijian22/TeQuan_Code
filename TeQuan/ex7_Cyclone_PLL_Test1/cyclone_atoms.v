@@ -10,9 +10,7 @@
 // without limitation, that your use is for the sole purpose of 
 // programming logic devices manufactured by Altera and sold by 
 // Altera or its authorized distributors.  Please refer to the 
-// applicable agreement for further details.
 // Quartus II 8.1 Build 163 10/28/2008
-
 // ********** PRIMITIVE DEFINITIONS **********
 
 `timescale 1 ps/1 ps 
